@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    color: rgb(242, 8, 242);
+    background-color: rgb(62, 61, 61);
+}
+
+
+.page-title{
+    
+    font-size: 2em;
+}
+
+header p {
+    color: #fff;
+}
+
+.row.justify-center{
+    
+}
+
+.card-column{
+
+}
+
+.card.code-card{
+    border: 5px #fff;
+}
+
+.card-header{
+    font-size: 1.5em;
+    border: 5px #fff;
+    border-style: solid white;
+}
+
+.card-body{
+
+}
+
+.code-block{
+    background: linear-gradient(#e664d9, #cf1bea);
+    color: #fff;
+    border-radius: 5px;
+}
+
+/* @media screen and (max-width: 992px) {
+    header {
+      background-color: green;
+    }
+    .card{
+      width:50%;
+    }
+  }
+  */
